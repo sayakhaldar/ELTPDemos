@@ -4,5 +4,9 @@ Changed added with WT1 with minor item changed.
 to fix bug1
 V
 
+<<<<<<< HEAD
 change to fix bug2 : 
 change : by teammate on remote
+=======
+change to fix bug2
+>>>>>>> bug2
